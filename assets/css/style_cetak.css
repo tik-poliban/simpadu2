@@ -1,0 +1,30 @@
+table.cetak {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	margin-bottom:5px;
+	width: 100%;
+}
+
+table.cetak H2{
+	font-size:20px;
+	margin:0px;
+}
+
+table.cetak td{
+	vertical-align: top;
+}
+
+.kotak_gray {
+	padding:10px;
+	border: 5px solid #9f9;
+}
+
+.kotak_red {
+	padding:10px;
+	border: 5px solid #f00;
+}
+
+.kotak_green {
+	padding:10px;
+	border: 5px solid #0f0;
+}

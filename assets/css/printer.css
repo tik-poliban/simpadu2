@@ -1,0 +1,18 @@
+table.cetak {
+	font-family: verdana,arial,sans-serif;
+	font-size:14px;
+	margin-bottom:5px;
+}
+table.cetak td {
+	padding: 3px 5px;
+}
+
+table.cetak_judul {
+	font-family: verdana,arial,sans-serif;
+	font-size:16px;
+	margin-bottom:5px;	
+}
+table.cetak td {
+	padding: 3px 5px;
+}
+

@@ -1,0 +1,20 @@
+  <style>
+    body{}  /*entah, harus ada sesuatu dulu baru control dibawah jalan*/
+    td.details-control {
+        background: url('http://localhost/kampus/simpadu_v2/assets/imgs/details_open.png') no-repeat center center;
+        cursor: pointer;
+    } 
+    tr.shown td.details-control {
+        background: url('http://localhost/kampus/simpadu_v2/assets/imgs/details_close.png') no-repeat center center;
+    }
+
+    .rapikan_tb_dtgrid{
+      margin-right : 10px;
+      padding-bottom: 10px;
+    }
+    
+table.dataTable tbody tr.selected {
+    color: black;
+    background-color: #cfefff;
+}    
+  </style>
